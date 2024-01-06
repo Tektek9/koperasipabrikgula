@@ -1,2 +1,3 @@
 # koperasipabrikgula
-web koperasi  pabrik gula
+Web koperasi pabrik gula
+Framework Laravel
