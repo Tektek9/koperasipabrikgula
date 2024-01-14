@@ -16,4 +16,4 @@ Web koperasi pabrik gula
 
 Menggunakan Framework Laravel
 
-Dibangun bersama Fajar https://github.com/helium01
+Dibangun bersama @Fajar https://github.com/helium01
