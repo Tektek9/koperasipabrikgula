@@ -14,6 +14,6 @@ Web koperasi pabrik gula
 - Memorial pemindah pembukuan
 - Cetak
 
-Menggunakan Framework Laravel
+Menggunakan Framework Laravel (Masih dalam proses perbaikan UI)
 
 Dibangun bersama @Fajar https://github.com/helium01
