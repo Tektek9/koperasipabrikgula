@@ -15,5 +15,3 @@ Web koperasi pabrik gula
 - Cetak
 
 Menggunakan Framework Laravel ( Versi UI tanpa template )
-
-Dibangun bersama @Fajar https://github.com/helium01
